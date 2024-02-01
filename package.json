@@ -1,0 +1,30 @@
+{
+  "name": "create_your_logo",
+  "version": "1.0.0",
+  "description": "challenge 10 SVG Logo",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lujoffily/create_your_logo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lujoffily/create_your_logo/issues"
+  },
+  "homepage": "https://github.com/Lujoffily/create_your_logo#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
